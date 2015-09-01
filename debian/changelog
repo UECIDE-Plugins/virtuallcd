@@ -1,3 +1,9 @@
+virtuallcd (1.0.2) uecide; urgency=low
+
+  * Bumped version
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 1 Sep 2015 22:15:09 +0100
+
 virtuallcd (1.0.1) uecide; urgency=low
 
   * Removed zipfix files from standalone

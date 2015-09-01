@@ -8,6 +8,7 @@ Standards-Version: 3.9.5
 Package: virtuallcd
 Section: plugins
 Architecture: all
+XBSC-Group: Communications
 Depends: libvirtuallcd
 Description: Virtual LCD
  Virtual graphical LCD plugin with advanced serial interface.
