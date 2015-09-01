@@ -1,12 +1,12 @@
 virtuallcd (1.0.1) uecide; urgency=low
 
-  * Added dependency on VirtualLCD library
+  * Removed zipfix files from standalone
 
- -- Matt Jenkins <matt@majenko.co.uk>  Tue, 27 Jan 2015 18:13:50 +0000
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 1 Sep 2015 22:14:33 +0100
 
 virtuallcd (1.0.0) uecide; urgency=low
 
-  * Initial Release.
+  * Initial import
 
- -- Matt Jenkins <matt@majenko.co.uk>  Tue, 27 Jan 2015 18:13:50 +0000
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 1 Sep 2015 22:14:03 +0100
 
