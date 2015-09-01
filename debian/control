@@ -1,0 +1,16 @@
+Source: virtuallcd
+Section: plugins
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: virtuallcd
+Section: plugins
+Architecture: all
+Depends: libvirtuallcd
+Description: Virtual LCD
+ Virtual graphical LCD plugin with advanced serial interface.
+
+
+

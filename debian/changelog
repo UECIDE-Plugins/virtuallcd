@@ -1,0 +1,12 @@
+virtuallcd (1.0.1) uecide; urgency=low
+
+  * Added dependency on VirtualLCD library
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 27 Jan 2015 18:13:50 +0000
+
+virtuallcd (1.0.0) uecide; urgency=low
+
+  * Initial Release.
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 27 Jan 2015 18:13:50 +0000
+

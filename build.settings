@@ -1,0 +1,7 @@
+version=0.8.8h
+version.minimum=0.8.7z31
+bundle=false
+description=Virtual LCD screen
+# Path relative to a plugin directory, not this directory
+uecide.path=/usr/share/uecide
+install.path=/home/matt/.uecide/plugins
